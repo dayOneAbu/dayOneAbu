@@ -1,14 +1,33 @@
-# Abubker
+<h1 align="center">Hi 👋, I'm Abubker</h1>
+<h3 align="center">Full-stack engineer building production platforms — recruiting, venue booking, ERP, and AI-powered tools</h3>
 
-Full-stack engineer building production platforms for real businesses — recruiting, venue booking, ERP, and AI-powered tools, mostly in the Next.js/TypeScript + Go ecosystem, with a focus on the Ethiopian/African market.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+HireStack+%E2%80%94+verified+overseas+recruiting;Next.js+%2B+TypeScript+%2B+Go+%2B+PostgreSQL;Focused+on+the+Ethiopian+%2F+African+market" alt="Typing SVG" />
+</p>
 
-**Stack:** TypeScript · Next.js · Go · Prisma/PostgreSQL · tRPC · Payload CMS · Vue
+<p align="center">
+  <a href="mailto:abubker.init@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/dayOneAbu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## Featured Work
+### 🛠️ Stack
 
-### 🏢 Flagship Products *(private — in active development)*
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+### 🏢 Flagship Products <sub>(private, in active development)</sub>
 
 | Project | What it does |
 |---|---|
@@ -33,11 +52,21 @@ Full-stack engineer building production platforms for real businesses — recrui
 
 ---
 
-## GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dayOneAbu&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayOneAbu&layout=compact&hide_border=true)
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dayOneAbu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayOneAbu&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayOneAbu&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dayOneAbu&label=Profile+Views&color=2F81F7&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-📫 Reach me: abubker.init@gmail.com
+<p align="left">📫 Reach me: <a href="mailto:abubker.init@gmail.com">abubker.init@gmail.com</a></p>
