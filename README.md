@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack engineer building production platforms — recruiting, venue booking, ERP, and AI-powered tools</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+HireStack+%E2%80%94+verified+overseas+recruiting;Next.js+%2B+TypeScript+%2B+Go+%2B+PostgreSQL;Focused+on+the+Ethiopian+%2F+African+market" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=4+years+shipping+full-stack+products+%E2%80%94+Next.js%2C+tRPC%2C+Go%2C+Postgres;for+clients+who+needed+them+live%2C+not+just+demoed." alt="Typing SVG" />
 </p>
 
 <p align="center">
