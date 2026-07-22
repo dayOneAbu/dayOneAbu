@@ -55,6 +55,11 @@
 
 ### 🏢 Featured Work
 
+<p align="left">
+  <a href="https://github.com/dayOneAbu/hire-stack"><img height="150" alt="hire-stack repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=dayOneAbu&repo=hire-stack&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/dayOneAbu/analytics-assesment"><img height="150" alt="analytics-assesment repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=dayOneAbu&repo=analytics-assesment&theme=tokyonight&hide_border=true" /></a>
+</p>
+
 - Built a verified hiring platform end to end — Next.js frontend, tRPC API layer, Prisma/PostgreSQL data layer, AI-assisted resume parsing, weighted per-job match scoring, a derived publish gate driven by data state (not a manual toggle), S3-compatible file storage, and Stripe billing.
 - Built a news publishing + analytics REST API — Express, Prisma/PostgreSQL, JWT auth with role separation, and BullMQ background jobs aggregating daily read-log analytics.
 
