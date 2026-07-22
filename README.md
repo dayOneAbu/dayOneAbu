@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my name Abubker</h1>
+<h1 align="center">Hi 👋, I'm Abubker</h1>
 <h3 align="center">Full-stack software engineer building production grade apps</h3>
 
 <p align="center">
@@ -55,16 +55,8 @@
 
 ### 🏢 Featured Work
 
-**[HireStack](https://github.com/dayOneAbu/hire-stack)** — verified hiring platform for overseas VA recruiting
-- Built the full stack end to end: Next.js frontend, tRPC API layer, Prisma/PostgreSQL data layer
-- Implemented AI-assisted resume parsing and a weighted, per-job match-scoring engine
-- Designed a derived publish gate (no manual admin toggle — candidate visibility is computed from data state)
-- Wired up S3-compatible file storage and Stripe billing/slot management
-
-**[analytics-assesment](https://github.com/dayOneAbu/analytics-assesment)** — news publishing + analytics REST API
-- Built an Express + Prisma/PostgreSQL API for authors to publish and readers to consume content
-- Implemented JWT-based auth and role separation
-- Set up BullMQ background jobs to aggregate daily read-log analytics
+- Built a verified hiring platform end to end — Next.js frontend, tRPC API layer, Prisma/PostgreSQL data layer, AI-assisted resume parsing, weighted per-job match scoring, a derived publish gate driven by data state (not a manual toggle), S3-compatible file storage, and Stripe billing.
+- Built a news publishing + analytics REST API — Express, Prisma/PostgreSQL, JWT auth with role separation, and BullMQ background jobs aggregating daily read-log analytics.
 
 ---
 
