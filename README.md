@@ -13,15 +13,46 @@
 
 ### 🛠️ Stack
 
+**Languages**
+
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+**Frameworks & Frontend**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+</p>
+
+**APIs, Data & CMS**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" />
+</p>
+
+**DevOps & Deployment**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPS_Deployment-4A4A55?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
@@ -30,24 +61,27 @@
 
 | Project | What it does |
 |---|---|
-| **HireStack** | Verified, structured hiring platform for overseas VA recruiting in real estate — AI-assisted resume parsing, publish gating, match scoring, admin review queues. |
-| **Yene ERP** | Go-based ERP backend with a TypeScript frontend for internal business operations. |
-| **VenueBook** | Venue booking platform focused on booking accuracy, BEO execution, Ethiopian tax compliance, and local payments under unstable connectivity. |
-| **Aselef Media CMS** | Next.js + Payload CMS site and admin panel for a media/comms agency — content, media, redirects, SEO metadata. |
+| **HireStack** | Next.js + tRPC + Prisma/Postgres hiring platform for overseas VA recruiting — AI-assisted resume parsing, derived publish gating, weighted match scoring, S3-compatible storage, Stripe billing. |
+| **Yene ERP** | Go backend (custom migrations, `golangci-lint`, Docker Compose) with a TanStack Start/React TypeScript frontend for internal business operations. |
+| **VenueBook** | tRPC + Prisma/Neon venue booking platform — booking accuracy, BEO execution, Ethiopian tax compliance, and local payments under unstable connectivity. |
+| **Enma** | Multi-language (i18n) Payload CMS + Next.js site — live preview, SEO/redirect plugins, S3 storage, Playwright + Lighthouse CI + accessibility (axe) pipelines. |
+| **Aselef Media CMS** | Payload CMS + Next.js site and admin panel for a media/comms agency — content, media, redirects, SEO metadata. |
 
 ### 🌍 Public Repositories
 
 | Project | Description |
 |---|---|
-| [**venbook**](https://github.com/dayOneAbu/venbook) | Public predecessor to VenueBook — venue booking, BEOs, Ethiopian tax compliance, local payments. |
-| [**Uprise**](https://github.com/dayOneAbu/Uprise) | Reputation-first internship platform for the African tech ecosystem. |
-| [**RAG-chat**](https://github.com/dayOneAbu/RAG-chat) | AI chatbot that answers questions from your own documents using RAG. |
+| [**venbook**](https://github.com/dayOneAbu/venbook) | Public predecessor to VenueBook — tRPC, Prisma, Neon Postgres, venue booking + BEOs + Ethiopian tax compliance. |
+| [**Uprise**](https://github.com/dayOneAbu/Uprise) | Reputation-first internship platform for the African tech ecosystem — tRPC, Prisma, BetterAuth, real-time via WebSockets. |
+| [**RAG-chat**](https://github.com/dayOneAbu/RAG-chat) | AI chatbot answering questions over your own documents — tRPC, Prisma, NextAuth. |
 | [**amharic-rag-supabase**](https://github.com/dayOneAbu/amharic-rag-supabase) | Retrieval-augmented generation system for Amharic-language processing. |
-| [**IPAM**](https://github.com/dayOneAbu/IPAM) | Internal dashboard for managing network IP allocations across enterprise infrastructure. |
+| [**IPAM**](https://github.com/dayOneAbu/IPAM) | Internal dashboard for network IP allocation across enterprise infrastructure — tRPC, Prisma, NextAuth. |
 | [**combank**](https://github.com/dayOneAbu/combank) | Full CMS for websites/blogs/portfolios — Payload CMS backend, Next.js frontend. |
-| [**analytics-assesment**](https://github.com/dayOneAbu/analytics-assesment) | REST API for publishing news, reading, and daily aggregated analytics from read logs. |
+| [**analytics-assesment**](https://github.com/dayOneAbu/analytics-assesment) | Express + Prisma/Postgres REST API — news publishing, JWT auth, BullMQ background jobs, daily read-log aggregation. |
+| [**yeni-ads-web**](https://github.com/dayOneAbu/yeni-ads-web) | tRPC + Drizzle ORM + Postgres ad platform backend. |
+| [**yoni-tiket**](https://github.com/dayOneAbu/yoni-tiket) | Cross-platform ticketing app — Expo/React Native, Supabase, NativeWind. |
 | [**hotel_reservation**](https://github.com/dayOneAbu/hotel_reservation) | Hotel reservation system written in Go. |
-| [**Xclone**](https://github.com/dayOneAbu/Xclone) | Twitter/X clone built on the T3 stack. |
+| [**Xclone**](https://github.com/dayOneAbu/Xclone) | Twitter/X clone built on the T3 stack (tRPC, Prisma, NextAuth). |
 
 ---
 
