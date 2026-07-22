@@ -62,6 +62,17 @@
 
 - Built a verified hiring platform end to end — Next.js frontend, tRPC API layer, Prisma/PostgreSQL data layer, AI-assisted resume parsing, weighted per-job match scoring, a derived publish gate driven by data state (not a manual toggle), S3-compatible file storage, and Stripe billing.
 - Built a news publishing + analytics REST API — Express, Prisma/PostgreSQL, JWT auth with role separation, and BullMQ background jobs aggregating daily read-log analytics.
+- Built a multi-language (i18n) content platform on Payload CMS + Next.js — live preview, SEO/redirect plugins, S3 storage, and CI pipelines running Playwright, Lighthouse, and automated accessibility (axe) checks.
+- Built a booking platform for accuracy-critical, low-connectivity environments — tRPC, Prisma, Neon Postgres, event-order execution, tax compliance logic, and local payment handling.
+- Built a CMS-driven marketing site and admin panel — Payload CMS + Next.js, content/media management, redirects, and SEO metadata.
+- Built an ERP system with a Go backend (custom migrations, linting, Docker Compose) and a TypeScript/React frontend for internal business operations.
+- Built a reputation-and-matching platform — tRPC, Prisma, BetterAuth, and real-time features over WebSockets.
+- Built a document-grounded AI chatbot — RAG pipeline, tRPC, Prisma, NextAuth.
+- Built an internal infrastructure dashboard for IP allocation — tRPC, Prisma, NextAuth, role-based access.
+- Built an ad-platform backend — tRPC, Drizzle ORM, PostgreSQL.
+- Built a cross-platform mobile app — Expo/React Native, Supabase, NativeWind.
+- Built a social feed app on the T3 stack — tRPC, Prisma, NextAuth.
+- Built a reservation system backend in Go.
 
 ---
 
