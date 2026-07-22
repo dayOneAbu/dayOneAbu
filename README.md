@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abubker</h1>
-<h3 align="center">Full-stack engineer building production platforms — recruiting, venue booking, ERP, and AI-powered tools</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=4+years+shipping+full-stack+products+%E2%80%94+Next.js%2C+tRPC%2C+Go%2C+Postgres;for+clients+who+needed+them+live%2C+not+just+demoed." alt="Typing SVG" />
-</p>
+<h1 align="center">Hello, my name Abubker</h1>
+<h3 align="center">Full-stack software engineer building production grade apps</h3>
 
 <p align="center">
   <a href="https://github.com/dayOneAbu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -57,31 +53,18 @@
 
 ---
 
-### 🏢 Flagship Products <sub>(private, in active development)</sub>
+### 🏢 Featured Work
 
-| Project | What it does |
-|---|---|
-| **HireStack** | Next.js + tRPC + Prisma/Postgres hiring platform for overseas VA recruiting — AI-assisted resume parsing, derived publish gating, weighted match scoring, S3-compatible storage, Stripe billing. |
-| **Yene ERP** | Go backend (custom migrations, `golangci-lint`, Docker Compose) with a TanStack Start/React TypeScript frontend for internal business operations. |
-| **VenueBook** | tRPC + Prisma/Neon venue booking platform — booking accuracy, BEO execution, Ethiopian tax compliance, and local payments under unstable connectivity. |
-| **Enma** | Multi-language (i18n) Payload CMS + Next.js site — live preview, SEO/redirect plugins, S3 storage, Playwright + Lighthouse CI + accessibility (axe) pipelines. |
-| **Aselef Media CMS** | Payload CMS + Next.js site and admin panel for a media/comms agency — content, media, redirects, SEO metadata. |
+**[HireStack](https://github.com/dayOneAbu/hire-stack)** — verified hiring platform for overseas VA recruiting
+- Built the full stack end to end: Next.js frontend, tRPC API layer, Prisma/PostgreSQL data layer
+- Implemented AI-assisted resume parsing and a weighted, per-job match-scoring engine
+- Designed a derived publish gate (no manual admin toggle — candidate visibility is computed from data state)
+- Wired up S3-compatible file storage and Stripe billing/slot management
 
-### 🌍 Public Repositories
-
-| Project | Description |
-|---|---|
-| [**venbook**](https://github.com/dayOneAbu/venbook) | Public predecessor to VenueBook — tRPC, Prisma, Neon Postgres, venue booking + BEOs + Ethiopian tax compliance. |
-| [**Uprise**](https://github.com/dayOneAbu/Uprise) | Reputation-first internship platform for the African tech ecosystem — tRPC, Prisma, BetterAuth, real-time via WebSockets. |
-| [**RAG-chat**](https://github.com/dayOneAbu/RAG-chat) | AI chatbot answering questions over your own documents — tRPC, Prisma, NextAuth. |
-| [**amharic-rag-supabase**](https://github.com/dayOneAbu/amharic-rag-supabase) | Retrieval-augmented generation system for Amharic-language processing. |
-| [**IPAM**](https://github.com/dayOneAbu/IPAM) | Internal dashboard for network IP allocation across enterprise infrastructure — tRPC, Prisma, NextAuth. |
-| [**combank**](https://github.com/dayOneAbu/combank) | Full CMS for websites/blogs/portfolios — Payload CMS backend, Next.js frontend. |
-| [**analytics-assesment**](https://github.com/dayOneAbu/analytics-assesment) | Express + Prisma/Postgres REST API — news publishing, JWT auth, BullMQ background jobs, daily read-log aggregation. |
-| [**yeni-ads-web**](https://github.com/dayOneAbu/yeni-ads-web) | tRPC + Drizzle ORM + Postgres ad platform backend. |
-| [**yoni-tiket**](https://github.com/dayOneAbu/yoni-tiket) | Cross-platform ticketing app — Expo/React Native, Supabase, NativeWind. |
-| [**hotel_reservation**](https://github.com/dayOneAbu/hotel_reservation) | Hotel reservation system written in Go. |
-| [**Xclone**](https://github.com/dayOneAbu/Xclone) | Twitter/X clone built on the T3 stack (tRPC, Prisma, NextAuth). |
+**[analytics-assesment](https://github.com/dayOneAbu/analytics-assesment)** — news publishing + analytics REST API
+- Built an Express + Prisma/PostgreSQL API for authors to publish and readers to consume content
+- Implemented JWT-based auth and role separation
+- Set up BullMQ background jobs to aggregate daily read-log analytics
 
 ---
 
